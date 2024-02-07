@@ -15,4 +15,4 @@ giant milestone for me, and it's extremely motivating to see how much I've learn
 
 # Updates
 * Now saves information to a data.json file instead of .txt.
-* Search feature, that allows you to search saved entries and auto copys password to clipboard.
+* Search feature, that allows you to search saved entries and auto copies password to clipboard.
